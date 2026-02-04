@@ -1,21 +1,10 @@
 body {
-    background-color: lightblue; /* Changes the background color */
-    font-family: Arial, sans-serif; /* Makes the font look cleaner */
+    background-color: #222;
+    color: #0f0;
+    font-family: monospace;
 }
 
-h1 {
-    color: navy; /* Changes the headline color */
-    text-align: center; /* Centers the text */
-}
-
-p {
-    text-align: center; /* Centers the paragraph */
-    font-size: 18px; /* Makes the text slightly bigger */
-}
-
-img {
-    width: 300px; /* Forces image to be 300 pixels wide */
-    border-radius: 10px; /* Rounds the corners slightly */
-    display: block; /* Helps with centering */
-    margin: 0 auto; /* Centers the image horizontally */
+.container {
+    text-align: center;
+    margin-top: 50px;
 }
