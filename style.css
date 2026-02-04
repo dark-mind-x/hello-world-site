@@ -12,3 +12,10 @@ p {
     text-align: center; /* Centers the paragraph */
     font-size: 18px; /* Makes the text slightly bigger */
 }
+
+img {
+    width: 300px; /* Forces image to be 300 pixels wide */
+    border-radius: 10px; /* Rounds the corners slightly */
+    display: block; /* Helps with centering */
+    margin: 0 auto; /* Centers the image horizontally */
+}
