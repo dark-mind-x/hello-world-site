@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue; /* Changes the background color */
+    font-family: Arial, sans-serif; /* Makes the font look cleaner */
+}
+
+h1 {
+    color: navy; /* Changes the headline color */
+    text-align: center; /* Centers the text */
+}
+
+p {
+    text-align: center; /* Centers the paragraph */
+    font-size: 18px; /* Makes the text slightly bigger */
+}
